@@ -1,15 +1,15 @@
 id,name,city,groeße,type
 FA,Fischer Appelt,Hamburg,92,1
 MC,MC Group,Berlin,66,1
-SCG,Service Plan Content Group,München,105,1
-OSK,Oliver Schrott Kommunikation,Köln,32,1
+SCG,Service Plan Content Group,Muenchen,105,1
+OSK,Oliver Schrott Kommunikation,Koeln,32,1
 EM,Edelman ,Frankfurt am Main,30,1
-WS,Weber Shandwick,München,22,1
+WS,Weber Shandwick,Muenchen,22,1
 FG,Faktenkontor-Gruppe,Hamburg,32,1
 ADC,ADC Festival,,,2
-"BOB,""Best of """"B to B"""""",,,2"
+BOB,Best of Buisiness to Buisiness,,,2
 DDA,Deutscher Digital Award,,,2
 CL,Cannes Lions,,,2
-DPO,Deutscher Preis für online Kommunikation,,,2
-DPW,Deutscher Preis für Wirtschaftskommunikation,,,2
+DPO,Deutscher Preis fuer online Kommunikation,,,2
+DPW,Deutscher Preis fuer Wirtschaftskommunikation,,,2
 DCA,Digital Communication Award,,,2
